@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Aurigait_MageGoMobile>
+      <version>0.1.0</version>
+    </Aurigait_MageGoMobile>
+  </modules>
+  <global>
+    <helpers>
+      <magegomobile>
+        <class>Aurigait_MageGoMobile_Helper</class>
+      </magegomobile>
+    </helpers>
+  </global>
+</config> 
